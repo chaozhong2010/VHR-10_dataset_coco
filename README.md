@@ -39,3 +39,10 @@ pip install pycocotools
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_5.png)
 
 In addition, we are very grateful to NWPU for providing VHR remote sensing images. URL: [NWPU-VHR-10](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html)
+
+
+If you feel this dataset is useful, please cite as the following format.
+[1] Hao Su, Shunjun Wei, Min Yan, Chen Wang, Jun Shi, Xiaoling Zhang, "OBJECT DETECTION AND INSTANCE SEGMENTATION IN REMOTE SENSING
+IMAGERY BASED ON PRECISE MASK R-CNN," IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Valencia, 2019.
+
+
