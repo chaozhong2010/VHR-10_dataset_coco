@@ -5,7 +5,7 @@ NWPU VHR-10 data set is a challenging ten-class geospatial object detection data
 
 ### Prepare data
 
-This code takes NWPU VHR-10 dataset as example. You can download NWPU-RESISC45 dataset and put them as follows. 
+This code takes NWPU VHR-10 dataset as example. You can download NWPU VHR-10 dataset and put them as follows. 
 
 ```
 ├── show_coco.py # visualizationtrain script
@@ -23,6 +23,12 @@ This code takes NWPU VHR-10 dataset as example. You can download NWPU-RESISC45 d
 
 NWPU VHR-10 dataset can be downloaded from https://drive.google.com/open?id=1--foZ3dV5OCsqXQXT84UeKtrAqc5CkAE
 
+
+### Installation pycocotools
+
+```
+pip install pycocotools
+```
 
 ### Visualization results
 
