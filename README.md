@@ -8,7 +8,7 @@ NWPU VHR-10 data set is a challenging ten-class geospatial object detection data
 This code takes NWPU VHR-10 dataset as example. You can download NWPU VHR-10 dataset and put them as follows. 
 
 ```
-├── show_coco.py # visualizationtrain script
+├── show_coco.py # visualization script
 ├── NWPU VHR-10_dataset_coco
     ├──positive image set # 650 images
        ├── ['.jpg']
