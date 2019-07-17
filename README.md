@@ -42,6 +42,7 @@ In addition, we are very grateful to NWPU for providing VHR remote sensing image
 
 
 If you feel this dataset is useful, please cite as the following format.
+
 [1] Hao Su, Shunjun Wei, Min Yan, Chen Wang, Jun Shi, Xiaoling Zhang, "OBJECT DETECTION AND INSTANCE SEGMENTATION IN REMOTE SENSING
 IMAGERY BASED ON PRECISE MASK R-CNN," IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, Valencia, 2019.
 
