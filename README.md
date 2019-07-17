@@ -10,12 +10,12 @@ This code takes NWPU VHR-10 dataset as example. You can download NWPU-RESISC45 d
 ```
 ├── show_coco.py # visualizationtrain script
 ├── NWPU VHR-10_dataset_coco
-		├──positive image set
-		   ├── ['.jpg']
-		   ├──    ...
-		   ├── ['.jpg']
+    ├──positive image set
+       ├── ['.jpg']
+       ├──    ...
+       ├── ['.jpg']
 	
-		├──annotations.json
+    ├──annotations.json	
     ├──split_datasets.py #randomly dividing dataset scripts.
 	
 ```
