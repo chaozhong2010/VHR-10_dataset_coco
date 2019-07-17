@@ -38,4 +38,4 @@ pip install pycocotools
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_4.png)
 ![image](https://github.com/chaozhong2010/VHR-10_dataset_coco/blob/master/pictures/Figure_5.png)
 
-Besides, we own many thanks to NWPU for providing VHR remote sensing images.URL: [NWPU-VHR-10](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html)
+In addition, we are very grateful to NWPU for providing VHR remote sensing images. URL: [NWPU-VHR-10](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html)
