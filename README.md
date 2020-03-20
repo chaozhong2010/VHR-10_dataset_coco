@@ -51,7 +51,7 @@ pip install pycocotools
 
 ### Acknowledgement
 
-In addition, we are very grateful to NWPU for providing VHR remote sensing images. URL: [NWPU-VHR-10](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html).We also own many thanks to Jianwei Li, who generously provided the SSDD dataset.
+In addition, we are very grateful to NWPU for providing VHR remote sensing images. URL: [NWPU-VHR-10](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html). We also own many thanks to Jianwei Li, who generously provided the SSDD dataset.
 
 ### Citation
 
